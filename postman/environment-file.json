@@ -1,0 +1,19 @@
+{
+  "id": "78a8e4c4-936e-48d8-9bef-2121f911ddba",
+  "name": "mygold_environment",
+  "values": [
+    {
+      "key": "token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxMWRlZDVjMGFjMjAxMmFjMDI4ODkxZiIsInVzZXJuYW1lIjoiYWRtaW4iLCJpYXQiOjE2MjkzNTEyNzAsImV4cCI6MTYyOTk1MTI3MH0.BJ-WKjNYeFDQ4pn8kfli5gwn6GLz_c3voFht20Agj9k",
+      "enabled": true
+    },
+    {
+      "key": "url",
+      "value": "http://localhost:5000",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2022-06-23T19:16:11.000Z",
+  "_postman_exported_using": "Postman"
+}
